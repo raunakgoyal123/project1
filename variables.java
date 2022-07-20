@@ -8,7 +8,7 @@ public class variables {
         int marks2;
 
 
-        // assigning values & initialization of variables
+        // assigning values & initialization of variables from branch 2
         marks1 = 72;
         marks2 = 85;
 
