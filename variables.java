@@ -1,7 +1,5 @@
 public class variables {
     public static void main(String[] args)
-    {
-        // comment here...and changing the test from forking 
 
         // declaring variables
         int marks1;
