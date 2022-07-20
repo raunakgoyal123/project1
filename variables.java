@@ -1,7 +1,7 @@
 public class variables {
     public static void main(String[] args)
     {
-        // comment here...
+        // comment here...and changing the test
 
         // declaring variables
         int marks1;
